@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i -d c
+tr -d 'Cc'
