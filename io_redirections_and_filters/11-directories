@@ -1,2 +1,2 @@
 #!/bin/bash
-ls type d -a -r | cat -n | tail -1 [1-9]
+ls -a -r | cat -n | tail -1 [1-9]
