@@ -1,2 +1,2 @@
 #!/bin/bash
-gerp '^[a-zA-Z]' /etc/ssh/sshd_config
+gerp '^[a-zA-Z]*' /etc/ssh/sshd_config
