@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R -a  *.js | rm -rf
+ls -R -a  *.js | rm
